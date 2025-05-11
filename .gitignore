@@ -1,0 +1,8 @@
+*.ini
+*.WAS
+*.LOG
+**__Previews/
+**History/
+**Datasheets/
+**Docs/
+**Project Outputs**
